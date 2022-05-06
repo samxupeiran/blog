@@ -1,0 +1,11 @@
+__pycache__
+nohup.out
+.git-credentials
+venv/
+.DS_Store
+node_modules/
+index.html
+!docs/index.html
+package-lock.json
+.idea
+*.iml
